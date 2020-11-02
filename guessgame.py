@@ -6,7 +6,7 @@ x = get_guess()
 print(x)
 
 #Generate computer code
-def genetate_code():
+def generate_code():
     digits = [str(num) for num in range(10)]
 
     #shuffle the digits
